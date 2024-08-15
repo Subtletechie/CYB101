@@ -1,82 +1,79 @@
-[![GitHub License](https://img.shields.io/github/license/microsoft/Security-101)](https://github.com/microsoft/Security-101/blob/main/LICENSE)
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/microsoft/Security-101)](https://github.com/microsoft/Security-101/pulls)
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/microsoft/Security-101)](https://github.com/microsoft/Security-101/issues)
-[![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Security-101)](https://github.com/microsoft/Security-101/stargazers)
-[![GitHub watchers](https://img.shields.io/github/watchers/microsoft/Security-101)](https://github.com/microsoft/Security-101/watchers)
-[![GitHub forks](https://img.shields.io/github/forks/microsoft/Security-101)](https://github.com/microsoft/Security-101/forks)
 
-# 🚀 Cybersecurity for Beginners – a curriculum
+---
 
-In this rapidly changing age of AI technology adoption, it is even more critical to understand how to secure IT systems. This course is designed to teach you fundamental cyber security concepts to kick-start your security learning. It is vendor agnostic and is divided into small lessons that should take around 30-60 mins to complete. Each lesson has a small quiz and links to further reading if you want to dive into the topic a bit more.
+
+# 🚀 Cybersecurity for Beginners – A Simple Guide
+
+In today’s world, where AI technology is evolving quickly, understanding how to protect IT systems is more important than ever. This course is here to help you get started with basic cybersecurity concepts. It’s designed for beginners and doesn’t focus on any specific company’s tools. The course is divided into short lessons, each taking around 30-60 minutes. After each lesson, there’s a quick quiz and links for more detailed reading if you want to learn more.
+
+![Cybersecurity for Beginners](images/banner.jpg)
+Sure! Here’s the revised content with the links removed from the course overview:
+
+---
+
+# 🚀 Cybersecurity for Beginners – A Simple Guide
+
+In today’s world, where AI technology is evolving quickly, understanding how to protect IT systems is more important than ever. This course is here to help you get started with basic cybersecurity concepts. It’s designed for beginners and doesn’t focus on specific company tools. The course is divided into short lessons, each taking around 30-60 minutes. After each lesson, there’s a quick quiz and links for more detailed reading if you want to learn more.
 
 ![Cybersecurity for Beginners](images/banner.jpg)
 
-What this course covers 📚
+### What You’ll Learn 📚
 
-- 🔐 Basic cyber security concepts such as the CIA triad, the differences between risks, threats, etc,
-- 🛡️ Understanding what a security control is and what forms they take.
-- 🌐 Understanding what zero trust is and why this is important in modern cyber security.
-- 🔑 Understanding key concepts and themes across identity, networking, security operations, infrastructure and data security.
-- 🔧 Giving some examples of tools used to implement security controls.
+- 🔐 **Basic Cybersecurity Concepts:** Learn about key ideas like the CIA triad (Confidentiality, Integrity, Availability) and the differences between risks and threats.
+- 🛡️ **Security Controls:** Understand what security controls are and the different types they come in.
+- 🌐 **Zero Trust:** Find out what zero trust is and why it's essential for modern cybersecurity.
+- 🔑 **Key Themes:** Get familiar with important topics across identity management, networking, security operations, infrastructure, and data security.
+- 🔧 **Security Tools:** See examples of tools used to enforce security controls.
 
-What this course does not cover 🙅‍♂️
+### What This Course Doesn’t Cover 🙅‍♂️
 
-- 🚫 How to use specific security tools.
-- 🚫 How to "hack" or do red teaming/offensive security.
-- 🚫 Learning about specific compliance standards.
+- 🚫 Specific security tools usage.
+- 🚫 Hacking techniques or offensive security.
+- 🚫 Detailed compliance standards.
 
-[![Watch the video](images/intro_placeholder.png)](https://learn-video.azurefd.net/vod/player?id=a0fe1cef-c064-4d59-97a9-e89e12a99b4d)
 
-When you have finished this course, you can move onto some of our Microsoft Learn modules. We recommend you continue your learning with  [Microsoft Security, Compliance, and Identity Fundamentals.](https://learn.microsoft.com/training/paths/describe-concepts-of-security-compliance-identity/?WT.mc_id=academic-96948-sayoung) 
+## Module Overview 📝
 
-Ultimately, you could consider taking the [Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals exam.](https://learn.microsoft.com/credentials/certifications/exams/sc-900/?WT.mc_id=academic-96948-sayoung)
+| **Module Number** | **Module Name**                           | **Concepts Covered** | **Learning Objectives** |
+|-------------------|-------------------------------------------|----------------------|-------------------------|
+| **1.1**           | Basic Security Concepts                   | The CIA Triad | Understand confidentiality, availability, integrity, authenticity, nonrepudiation, and privacy. |
+| **1.2**           | Basic Security Concepts                   | Common Cyber Threats | Learn about common cybersecurity threats faced by people and organizations. |
+| **1.3**           | Basic Security Concepts                   | Understanding Risk Management | Learn how to assess risk by looking at impact and likelihood, and how to implement controls. |
+| **1.4**           | Basic Security Concepts                   | Security Practices and Documentation | Understand the differences between policies, procedures, standards, and regulations. |
+| **1.5**           | Basic Security Concepts                   | Zero Trust | Learn what zero trust is, its impact on architecture, and the concept of defense in depth. |
+| **1.6**           | Basic Security Concepts                   | The Shared Responsibility Model | Understand the shared responsibility model and its impact on cybersecurity. |
+| **1.7**           | End of Module Quiz                        | | |
+| **2.1**           | Identity & Access Management Basics       | IAM Key Concepts | Learn about principles like least privilege and how IAM supports zero trust. |
+| **2.2**           | Identity & Access Management Basics       | IAM Zero Trust Architecture | Discover how identity management fits into modern IT environments and the threats it addresses. |
+| **2.3**           | Identity & Access Management Basics       | IAM Capabilities | Learn about IAM capabilities and tools to secure identities. |
+| **2.4**           | End of Module Quiz                        | | |
+| **3.1**           | Network Security Basics                   | Networking Key Concepts | Learn about networking concepts like IP addressing, port numbers, and encryption. |
+| **3.2**           | Network Security Basics                   | Networking Zero Trust Architecture | Understand how networking supports an end-to-end zero trust architecture and the threats it helps mitigate. |
+| **3.3**           | Network Security Basics                   | Network Security Capabilities | Learn about network security tools like firewalls, WAF, and DDoS protection. |
+| **3.4**           | End of Module Quiz                        | | |
+| **4.1**           | Security Operations Basics                | SecOps Key Concepts | Discover why security operations are crucial and how they differ from regular IT operations. |
+| **4.2**           | Security Operations Basics                | SecOps Zero Trust Architecture | Learn how security operations contribute to an end-to-end zero trust architecture and the threats it mitigates. |
+| **4.3**           | Security Operations Basics                | SecOps Capabilities | Explore SecOps tools like SIEM and XDR. |
+| **4.4**           | End of Module Quiz                        | | |
+| **5.1**           | Application Security Basics               | AppSec Key Concepts | Learn about application security concepts like secure design and input validation. |
+| **5.2**           | Application Security Basics               | AppSec Capabilities | Discover AppSec tools such as pipeline security, code scanning, and secret scanning. |
+| **5.3**           | End of Module Quiz                        | | |
+| **6.1**           | Infrastructure Security Basics            | Infrastructure Security Key Concepts | Learn about hardening systems, patching, security hygiene, and container security. |
+| **6.2**           | Infrastructure Security Basics            | Infrastructure Security Capabilities | Learn about tools that assist with infrastructure security, like CSPM and container security. |
+| **6.3**           | End of Module Quiz                        | | |
+| **7.1**           | Data Security Basics                      | Data Security Key Concepts | Learn about data classification, retention, and why they are important to an organization. |
+| **7.2**           | Data Security Basics                      | Data Security Capabilities | Discover data security tools like DLP, risk management, and data governance. |
+| **7.3**           | End of Module Quiz                        | | |
+| **8.1**           | AI Security Basics                       | AI Security Key Concepts | Explore the differences and similarities between traditional security and AI security. |
+| **8.2**           | AI Security Basics                       | AI Security Capabilities | Learn about AI security tools and controls used to protect AI systems. |
+| **8.3**           | AI Security Basics                       | Responsible AI | Understand what responsible AI means and the specific risks associated with AI that security professionals should be aware of. |
+| **8.4**           | End of Module Quiz                        | | |
 
-> 💁 If you have any feedback or suggestions on this course and any content we're missing, we'd love to hear from you!
 
-## Modules Overview 📝 
-| **Module number** | **Module name**                           | **Concepts taught**                  | **Learning objectives**                                                                                          |
-|-------------------|-------------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------|
-| **1.1**           | Basic security concepts                   | [The CIA triad](https://github.com/microsoft/Security-101/blob/main/1.1%20The%20CIA%20triad%20and%20other%20key%20concepts.md)                        | Learn about confidentiality, availability and integrity. Also authenticity and also nonrepudiation and privacy. |
-| **1.2**           | Basic security concepts                   | [Common cyber security threats](https://github.com/microsoft/Security-101/blob/main/1.2%20Common%20cybersecurity%20threats.md)        | Learn about the common cyber security threats facing individuals and organizations.                             |
-| **1.3**           | Basic security concepts                   | [Understanding risk management](https://github.com/microsoft/Security-101/blob/main/1.3%20Understanding%20risk%20management.md)       | Learn about assessing and understanding risk – impact/likelihood and implementing controls.                                                                                                               | |
-| **1.4**           | Basic security concepts                   | [Security practices and documentation](https://github.com/microsoft/Security-101/blob/main/1.4%20Security%20practices%20and%20documentation.md) | Learn about the difference between policies, procedures, standards and regulations/laws.                         |
-| **1.5**           | Basic security concepts                   | [Zero trust](https://github.com/microsoft/Security-101/blob/main/1.5%20Zero%20trust.md)                           | Learn about what is zero trust and how does it affect architecture? What is defense in depth?                   |
-| **1.6**           | Basic security concepts                   | [The shared responsibility model](https://github.com/microsoft/Security-101/blob/main/1.6%20Shared%20responsibility%20model.md)                           | What is the shared responsibility model and how does it affect cyber security?                  |
-| **1.7**           | [End of module quiz](https://github.com/microsoft/Security-101/blob/main/1.7%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **2.1**           | Identity & access management fundamentals | [IAM key concepts](https://github.com/microsoft/Security-101/blob/main/2.1%20IAM%20key%20concepts.md)                     | Learn about the principle of least privilege, segregation of duties, how IAM supports zero trust.               |
-| **2.2**           | Identity & access management fundamentals | [IAM zero trust architecture](https://github.com/microsoft/Security-101/blob/main/2.2%20IAM%20zero%20trust%20architecture.md)          | Learn about how identity is the new perimeter for modern IT environments and the threats it mitigates.          |
-| **2.3**           | Identity & access management fundamentals | [IAM capabilities](https://github.com/microsoft/Security-101/blob/main/2.3%20IAM%20capabilities.md)                     | Learn about IAM capabilities and controls to secure identities                                                  |
-| **2.4**           | [End of module quiz](https://github.com/microsoft/Security-101/blob/main/2.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **3.1**           | Network security fundamentals             | [Networking key concepts](https://github.com/microsoft/Security-101/blob/main/3.1%20Networking%20key%20concepts.md)              | Learn about networking concepts (IP addressing, port numbers, encryption, etc.)                                 |
-| **3.2**           | Network security fundamentals             | [Networking zero trust architecture](https://github.com/microsoft/Security-101/blob/main/3.2%20Networking%20zero%20trust%20architecture.md)   | Learn about how networking contributes to an E2E ZT architecture and the threats it mitigates.                  |
-| **3.3**           | Network security fundamentals             | [Network security capabilities](https://github.com/microsoft/Security-101/blob/main/3.3%20Network%20security%20capabilities.md)        | Learn about network security tooling – firewalls, WAF, DDoS protection, etc.                                    |
-| **3.4**           | [End of module quiz](https://github.com/microsoft/Security-101/blob/main/3.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **4.1**           | Security operations fundamentals          | [SecOps key concepts](https://github.com/microsoft/Security-101/blob/main/4.1%20SecOps%20key%20concepts.md)                  | Learn about why security operations are important and how it differs from normal IT ops teams.                  |
-| **4.2**           | Security operations fundamentals          | [SecOps zero trust architecture](https://github.com/microsoft/Security-101/blob/main/4.2%20SecOps%20zero%20trust%20architecture.md)       | Learn about how SecOps contributes to an E2E ZT architecture and the threats it mitigates.                      |
-| **4.3**           | Security operations fundamentals          | [SecOps capabilities](https://github.com/microsoft/Security-101/blob/main/4.3%20SecOps%20capabilities.md)                  | Learn about SecOps tooling – SIEM, XDR, etc.                                                                    |
-| **4.4**           | [End of module quiz](https://github.com/microsoft/Security-101/blob/main/4.4%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **5.1**           | Application security fundamentals         | [AppSec key concepts](https://github.com/microsoft/Security-101/blob/main/5.1%20AppSec%20key%20concepts.md)                  | Learn about AppSec concepts such as secure by design, input validation, etc.                                    |
-| **5.2**           | Application security fundamentals         | [AppSec capabilities](https://github.com/microsoft/Security-101/blob/main/5.2%20AppSec%20key%20capabilities.md)                  | Learn about AppSec tooling: pipeline security tools, code scanning, secret scanning, etc.                       |
-| **5.3**           | [End of module quiz](https://github.com/microsoft/Security-101/blob/main/5.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **6.1**           | Infrastructure security fundamentals      | [Infrastructure security key concepts](https://github.com/microsoft/Security-101/blob/main/6.1%20Infrastructure%20security%20key%20concepts.md) | Learn about hardening systems, patching, security hygiene, container security.                                  |
-| **6.2**           | Infrastructure security fundamentals      | [Infrastructure security capabilities](https://github.com/microsoft/Security-101/blob/main/6.2%20Infrastructure%20security%20capabilities.md) | Learn about tooling that can assist with infrastructure security e.g. CSPM, container security, etc.            |
-| **6.3**           | [End of module quiz](https://github.com/microsoft/Security-101/blob/main/6.3%20End%20of%20module%20quiz.md)                        |                                      |                                                                                                                 |
-| **7.1**           | Data security fundamentals                | [Data security key concepts](https://github.com/microsoft/Security-101/blob/main/7.1%20Data%20security%20key%20concepts.md)           | Learn about data classification and retention and why this is important to an organization.                     |
-| **7.2**           | Data security fundamentals                | [Data security capabilities](https://github.com/microsoft/Security-101/blob/main/7.2%20Data%20security%20capabilities.md)           | Learn about data security tooling – DLP, inside risk management, data governance, etc.                          |
-| **7.3**           | [End of module quiz](https://github.com/microsoft/Security-101/blob/main/7.3%20End%20of%20module%20quiz.md)                        |
-| **8.1**           | AI security fundamentals                | [AI security key concepts](https://github.com/microsoft/Security-101/blob/main/8.1%20AI%20security%20key%20concepts.md)          | Learn about the differences and similarities between traditional security and AI security.                 |
-| **8.2**           | AI security fundamentals                | [AI security capabilities](https://github.com/microsoft/Security-101/blob/main/8.2%20AI%20security%20capabilities.md)           | Learn about AI security tooling and the controls that can be used to secure AI.                         |
-| **8.3**           | AI security fundamentals                | [Responsible AI](https://github.com/microsoft/Security-101/blob/main/8.3%20Responsible%20AI.md)          | Learn about what responsible AI is and AI specific harms that security professionals need to be aware of.                          |
-| **8.4**           | [End of module quiz](https://github.com/microsoft/Security-101/blob/main/8.4%20End%20of%20module%20quiz.md)     
-## 🎒  Other Courses 
 
-Our team produces other courses! Check out:
 
-- [ML for Beginners](https://aka.ms/ml-beginners?WT.mc_id=academic-96948-sayoung)
-- [Data Science for Beginners](https://aka.ms/datascience-beginners?WT.mc_id=academic-96948-sayoung)
-- [AI for Beginners](https://aka.ms/ai-beginners?WT.mc_id=academic-96948-sayoung)
-- [Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners?WT.mc_id=academic-96948-sayoung)
-- [Web Dev for Beginners](https://aka.ms/webdev-beginners?WT.mc_id=academic-96948-sayoung)
-- [IoT for Beginners](https://aka.ms/iot-beginners?WT.mc_id=academic-96948-sayoung)
-- [XR Development for Beginners](https://github.com/microsoft/xr-development-for-beginners?WT.mc_id=academic-96948-sayoung)
-- [Mastering GitHub Copilot for AI Paired Programming](https://aka.ms/GitHubCopilotAI?WT.mc_id=academic-96948-sayoung)
+---
+> 💁 We value your feedback! If you have any comments or think we’re missing something, please let us know!
+
+
+
