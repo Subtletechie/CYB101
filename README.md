@@ -73,7 +73,7 @@ In today’s world, where AI technology is evolving quickly, understanding how t
 
 
 ---
-> 💁 We value your feedback! If you have any comments or think we’re missing something, please let us know!
+> 💁 We value your feedback! If you have any comments or think we’re missing something, please let us know @ subtletechie@outlook
 
 
 
