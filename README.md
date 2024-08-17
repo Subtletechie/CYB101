@@ -6,8 +6,6 @@
 
 In today’s world, where AI technology is evolving quickly, understanding how to protect IT systems is more important than ever. This course is here to help you get started with basic cybersecurity concepts. It’s designed for beginners and doesn’t focus on any specific company’s tools. The course is divided into short lessons, each taking around 30-60 minutes. After each lesson, there’s a quick quiz and links for more detailed reading if you want to learn more.
 
-![Cybersecurity for Beginners](images/banner.jpg)
-Sure! Here’s the revised content with the links removed from the course overview:
 
 ---
 
@@ -15,7 +13,6 @@ Sure! Here’s the revised content with the links removed from the course overvi
 
 In today’s world, where AI technology is evolving quickly, understanding how to protect IT systems is more important than ever. This course is here to help you get started with basic cybersecurity concepts. It’s designed for beginners and doesn’t focus on specific company tools. The course is divided into short lessons, each taking around 30-60 minutes. After each lesson, there’s a quick quiz and links for more detailed reading if you want to learn more.
 
-![Cybersecurity for Beginners](images/banner.jpg)
 
 ### What You’ll Learn 📚
 
